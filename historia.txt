@@ -1,6 +1,2 @@
- let nombre="luis"
-function elegir(nombre){
-    if(nombre=="luis"){
-        console.log("hola luis")}
-    else{console.log("no eres luis")}}
+hola soy jorman
     
