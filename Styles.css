@@ -3,6 +3,8 @@ body{
     font-family: 'Times New Roman', Times, serif;
     
 }
-footer{
-    background-color: black;
+nav{
+    text-align: center;
+    background-color: aqua;
+    margin: 10px 14rem;
 }
